@@ -1,0 +1,75 @@
+.heading{
+    text-align: center;
+    padding: 20px;
+    color: white;
+   /*background-color: #ffb3b3;*/
+}
+header{
+   /* background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v475-katie-101-abstractblackandwhitebg_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=86196a47d14e811c3149f69279f90c1e);*/
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrv8865uEi9BB_RB9cCr8rvIb3AKBE4ukXFA&usqp=CAU);
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+nav{
+    text-align: center;
+    padding: 20px;
+}
+nav a{
+    display: inline-block;
+    width: 15%;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+    background-color: #666666 /*#ffb3b3*/;
+    border-radius: 10px;
+}
+.active{
+    background-color: #cccccc;
+}
+.left{
+    margin-left: 15px;
+    
+    float: left;
+    width: 200px;
+}
+.left img{
+   
+    margin: 20px;
+    border: solid black;
+}
+.right{
+    clear: right ;
+}
+section{
+    background: white;
+	display: block;
+	margin-left: 400px;
+    margin-top: 20px;
+	padding: 20px;
+}
+.name{
+    color: white;
+}
+.bg{
+    background-color: #999999;
+   
+}
+.bg1{
+    padding: 10px;background-color: #999999;
+    margin-top: 18px;
+}
+.imag img{
+    display: inline-block;
+    width:30%;
+    margin:5px;
+    padding-left: 25px;
+}
+.imag{
+    padding-bottom: 10px;
+}
+.bg h1{
+    padding-left: 30px;
+    padding-top: 10px;
+}
